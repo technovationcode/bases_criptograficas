@@ -6,9 +6,9 @@ Implementación de algoritmos criptográficos.
 
 En el paquete base. 
 Encontrarás ejemplos de:
-
+<br></br>
 -Hashing 
-
+<br></br>
 -Encriptación RSA
 
 La encriptación se divide en encriptación simétrica y asimétrica.
