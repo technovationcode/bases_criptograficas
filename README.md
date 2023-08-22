@@ -5,14 +5,14 @@ Basado en el libro "Cryptography and Cryptoanalysis in Java" de Stefania Loredan
 Implementación de algoritmos criptográficos.
 
 En el paquete base. 
-Encontrarás ejemplos de:
+Encontrarás ejemplos de:<br>
 -Hashing 
 <br>
--Encriptación RSA
+-Encriptación RSA<br>
 <br>
 La encriptación se divide en encriptación simétrica y asimétrica.
 
-ENCRIPTACIÓN SIMÉTRICA<br>
+<b>ENCRIPTACIÓN SIMÉTRICA</b><br>
 
 Algunos ejemplos de encriptación simétrica más antiguo son el cifrado de Cesar o el cifrado Vigenere.<br>
 
@@ -21,7 +21,7 @@ Encontrarás los algoritmos implementados de Cesar y Vigenere.
 
 Además del más utilizado actualmente que es el AES-256
 
-ENCRIPTACIÓN ASIMÉTRICA
+<b>ENCRIPTACIÓN ASIMÉTRICA</b>
 
 También conocido como de llave pública.
 
