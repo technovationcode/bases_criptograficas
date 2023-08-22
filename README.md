@@ -6,18 +6,17 @@ Implementación de algoritmos criptográficos.
 
 En el paquete base. 
 Encontrarás ejemplos de:
-<br></br>
 -Hashing 
-<br></br>
+<br>
 -Encriptación RSA
-
+<br>
 La encriptación se divide en encriptación simétrica y asimétrica.
 
-ENCRIPTACIÓN SIMÉTRICA
+ENCRIPTACIÓN SIMÉTRICA<br>
 
-Algunos ejemplos de encriptación simétrica más antiguo son el cifrado de Cesar o el cifrado Vigenere.
+Algunos ejemplos de encriptación simétrica más antiguo son el cifrado de Cesar o el cifrado Vigenere.<br>
 
-En encryption.symmetric.primitives
+En encryption.symmetric.primitives<br>
 Encontrarás los algoritmos implementados de Cesar y Vigenere.
 
 Además del más utilizado actualmente que es el AES-256
